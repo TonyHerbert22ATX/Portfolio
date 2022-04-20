@@ -3247,3 +3247,8 @@ small {
 .logo-c img{
 	width: 100%;
 }
+
+#move {
+	/* border: 1px solid red; */
+	padding-left: 10%
+}
